@@ -1,2 +1,2 @@
 # version-control-test
-12345
+1234567
