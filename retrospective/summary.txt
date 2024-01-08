@@ -1,0 +1,1 @@
+For the 3 HTML files, I made two simple web pages describing how people veiw ingroups versus outgroups, with a "work in progress" page for comparing the two. The merge conflict was resolved by rejecting one change and accepting another.
